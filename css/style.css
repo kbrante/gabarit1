@@ -1,8 +1,21 @@
+body{
+    width: 100%;
+}
 nav{
     background-color: black;
 }
+nav li{
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    text-align: center;
+    vertical-align: middle;
+}
+#logo{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
 li{
-    display:inline;
+    display:inline-block;
     color: grey;
 }
 #call{
