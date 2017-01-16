@@ -5,9 +5,15 @@ li{
     display:inline;
     color: grey;
 }
-#business{
-    float:right;
-}
 #call{
     padding: 20px 50px 20px 50px;
+    background-color: #3964B3;
+    border-radius: 10px;
+    color: white;
+}
+#photo{
+    border-radius: 10px;
+}
+#tagline{
+    border: 2px solid grey;
 }
