@@ -11,9 +11,21 @@ li{
     border-radius: 10px;
     color: white;
 }
+#business{
+    border-bottom: 1px solid grey;
+    text-align: justify;
+    padding: 1em 2em 2em 0;
+}
+#business p {
+    padding-left: 58em;
+}
 #photo{
     border-radius: 10px;
+    float: left;
 }
 #tagline{
     border: 2px solid grey;
+    background-color: #e8eaec;
+    text-align: center;
+    margin-top: 2em;
 }
