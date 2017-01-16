@@ -1,8 +1,7 @@
-body{
-    width: 100%;
-}
 nav{
     background-color: black;
+    padding-left: 2em;
+    padding-right: 2em;
 }
 nav li{
     margin-left: 0.5em;
@@ -18,45 +17,50 @@ li{
     display:inline-block;
     color: grey;
 }
-#call{
-    padding: 20px 50px 20px 50px;
-    background-color: #3964B3;
+#photo{
     border-radius: 10px;
-    color: white;
-    margin-left: 1em;
-    margin-bottom: 7em;
+    float: left;
 }
 #business{
     border-bottom: 1px solid grey;
     text-align: justify;
-    padding: 1em 2em 2em 0;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+#call{
+    padding: 5px 10px 5px 10px;
+    background-color: #3964B3;
+    border-radius: 10px;
+    color: white;
+    margin-left: 1em;
+    margin-bottom: 4em;
 }
 #business p {
-    padding-left: 58em;
+    padding-left: 57em;
 }
 #business h3{
-    padding-left: 51em;
-}
-#photo{
-    border-radius: 10px;
-    float: left;
+    padding-left: 49em;
 }
 #tagline{
     border: 2px solid grey;
     background-color: #e8eaec;
     text-align: center;
     margin-top: 2em;
+    margin-left: 5em;
+    margin-right: 5em;
 }
 main section{
-    width: 27%;
+    width: 20%;
     float: left;
     margin-top: 2em;
     margin-right: 5em;
     text-align: justify;
+    margin-left: 5em;
 
 }
 footer {
     float: left;
     margin-top: 1em;
+    margin-left: 5em;
 
 }
