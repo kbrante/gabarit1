@@ -1,6 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: sans-serif;
+    font-size: 1em;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+}
 nav{
     background-color: black;
-    padding-left: 2em;
+    padding-left: 5em;
     padding-right: 2em;
 }
 nav li{
@@ -26,6 +36,7 @@ li{
     text-align: justify;
     margin-left: 5em;
     margin-right: 5em;
+    padding-bottom: 2em;
 }
 #call{
     padding: 5px 10px 5px 10px;
@@ -34,12 +45,16 @@ li{
     color: white;
     margin-left: 1em;
     margin-bottom: 7em;
+    margin-top: 2em;
 }
 #business p {
     padding-left: 57em;
 }
 #business h3{
     padding-left: 49em;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    margin-left: 8em;
 }
 #tagline{
     border: 2px solid grey;
@@ -56,6 +71,12 @@ main section{
     text-align: justify;
     margin-left: 5em;
 
+}
+main h4{
+    margin-bottom: 1em;
+}
+main input{
+    margin-top: 1em;
 }
 footer {
     float: left;
