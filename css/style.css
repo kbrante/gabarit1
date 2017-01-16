@@ -10,6 +10,7 @@ li{
     background-color: #3964B3;
     border-radius: 10px;
     color: white;
+    margin-left: 1em;
 }
 #business{
     border-bottom: 1px solid grey;
@@ -18,6 +19,9 @@ li{
 }
 #business p {
     padding-left: 58em;
+}
+#business h3{
+    padding-left: 51em;
 }
 #photo{
     border-radius: 10px;
@@ -30,6 +34,15 @@ li{
     margin-top: 2em;
 }
 main section{
-    width: 30%;
+    width: 27%;
     float: left;
+    margin-top: 2em;
+    margin-right: 5em;
+    text-align: justify;
+
+}
+footer {
+    float: left;
+    margin-top: 1em;
+
 }
