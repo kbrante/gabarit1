@@ -55,6 +55,7 @@ li{
     margin-top: 2em;
     margin-bottom: 1em;
     margin-left: 8em;
+    font-weight: bold;
 }
 #tagline{
     border: 2px solid grey;
@@ -70,10 +71,10 @@ main section{
     margin-top: 2em;
     text-align: justify;
     margin-left: 5em;
-
 }
 main h4{
     margin-bottom: 1em;
+    font-weight: bold;
 }
 main input{
     margin-top: 1em;
